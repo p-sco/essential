@@ -1,0 +1,977 @@
+fileFormatVersion: 2
+guid: 058b679d07ee849bd80664984a6c9d34
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 5_magickahit_spritesheet_0
+    21300002: 5_magickahit_spritesheet_1
+    21300004: 5_magickahit_spritesheet_2
+    21300006: 5_magickahit_spritesheet_3
+    21300008: 5_magickahit_spritesheet_4
+    21300010: 5_magickahit_spritesheet_5
+    21300012: 5_magickahit_spritesheet_6
+    21300014: 5_magickahit_spritesheet_7
+    21300016: 5_magickahit_spritesheet_8
+    21300018: 5_magickahit_spritesheet_9
+    21300020: 5_magickahit_spritesheet_10
+    21300022: 5_magickahit_spritesheet_11
+    21300024: 5_magickahit_spritesheet_12
+    21300026: 5_magickahit_spritesheet_13
+    21300028: 5_magickahit_spritesheet_14
+    21300030: 5_magickahit_spritesheet_15
+    21300032: 5_magickahit_spritesheet_16
+    21300034: 5_magickahit_spritesheet_17
+    21300036: 5_magickahit_spritesheet_18
+    21300038: 5_magickahit_spritesheet_19
+    21300040: 5_magickahit_spritesheet_20
+    21300042: 5_magickahit_spritesheet_21
+    21300044: 5_magickahit_spritesheet_22
+    21300046: 5_magickahit_spritesheet_23
+    21300048: 5_magickahit_spritesheet_24
+    21300050: 5_magickahit_spritesheet_25
+    21300052: 5_magickahit_spritesheet_26
+    21300054: 5_magickahit_spritesheet_27
+    21300056: 5_magickahit_spritesheet_28
+    21300058: 5_magickahit_spritesheet_29
+    21300060: 5_magickahit_spritesheet_30
+    21300062: 5_magickahit_spritesheet_31
+    21300064: 5_magickahit_spritesheet_32
+    21300066: 5_magickahit_spritesheet_33
+    21300068: 5_magickahit_spritesheet_34
+    21300070: 5_magickahit_spritesheet_35
+    21300072: 5_magickahit_spritesheet_36
+    21300074: 5_magickahit_spritesheet_37
+    21300076: 5_magickahit_spritesheet_38
+    21300078: 5_magickahit_spritesheet_39
+    21300080: 5_magickahit_spritesheet_40
+    21300082: 5_magickahit_spritesheet_41
+    21300084: 5_magickahit_spritesheet_42
+    21300086: 5_magickahit_spritesheet_43
+    21300088: 5_magickahit_spritesheet_44
+    21300090: 5_magickahit_spritesheet_45
+    21300092: 5_magickahit_spritesheet_46
+    21300094: 5_magickahit_spritesheet_47
+    21300096: 5_magickahit_spritesheet_48
+    21300098: 5_magickahit_spritesheet_49
+    21300100: 5_magickahit_spritesheet_50
+    21300102: 5_magickahit_spritesheet_51
+    21300104: 5_magickahit_spritesheet_52
+    21300106: 5_magickahit_spritesheet_53
+    21300108: 5_magickahit_spritesheet_54
+    21300110: 5_magickahit_spritesheet_55
+    21300112: 5_magickahit_spritesheet_56
+    21300114: 5_magickahit_spritesheet_57
+    21300116: 5_magickahit_spritesheet_58
+    21300118: 5_magickahit_spritesheet_59
+    21300120: 5_magickahit_spritesheet_60
+    21300122: 5_magickahit_spritesheet_61
+    21300124: 5_magickahit_spritesheet_62
+    21300126: 5_magickahit_spritesheet_63
+    21300128: 5_magickahit_spritesheet_64
+    21300130: 5_magickahit_spritesheet_65
+    21300132: 5_magickahit_spritesheet_66
+    21300134: 5_magickahit_spritesheet_67
+    21300136: 5_magickahit_spritesheet_68
+    21300138: 5_magickahit_spritesheet_69
+    21300140: 5_magickahit_spritesheet_70
+    21300142: 5_magickahit_spritesheet_71
+    21300144: 5_magickahit_spritesheet_72
+    21300146: 5_magickahit_spritesheet_73
+    21300148: 5_magickahit_spritesheet_74
+    21300150: 5_magickahit_spritesheet_75
+    21300152: 5_magickahit_spritesheet_76
+    21300154: 5_magickahit_spritesheet_77
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 620
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb1db494dc44e5887d275908eb2f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 619
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6776779cdc5a4c5c94427474293717d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 619
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767073cb5661a42bf9fde641c9b35527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 619
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec876adb9d054a32833f741d3191646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 619
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52b5208dc9d544899dcf459e6ab3380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 619
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ebb163dae2f4d31a0728ae557ea916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 519
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a90360f59c794b85bebf29ff4e7c134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 519
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadadad26da2f4cec9b88b559d833adf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 520
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464272386a8744df1ae57d7a773ed6c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 521
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17e299e8b05b43579fd98e92e049dd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 521
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f6ac097355d41d38737f4175c7a1ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 520
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a560f7479c9144a0ba09fb1411275848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 519
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7262a12f222a64591a7820980444b1f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 419
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0ee8c3b656464fb8d26f7e1e67c53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 420
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae790513cd9545ee96337d76857d638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 420
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432a07fa1eba148f2b545e85b0c76b1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 418
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e9de63d5d6f429984cd5390d7d5ce6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 419
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07976ca5c95541b999a20225cf398c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 419
+        width: 15
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7513867953d406abeac0bfb4dcadad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 419
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b8bb593d46418199b7a8290324e74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 320
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c47e2d425c56484ca0042d1736b0d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 319
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e06a1b86c4d44929645ba023add4e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 319
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aaa2fcbb9574e4cafaa3a0126ebbec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 320
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ea1427499ae457da0f65356e3924d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 321
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d364c4bbc723940fab234c7b8267e01a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 322
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd602af7cf6742de873f1c1601491f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 323
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a839853b7124d939a27336f26aab2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 225
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863c312538354eb089aa0cd3d68ab48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 227
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ccb5aafcd4743c2b6ceeac18c39ac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 229
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51be688a4cbb147938307ea97b15a8a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 232
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4ec053e6d124e078b4b99576709696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 235
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6423a4189c11940c692f142e601104a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 237
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a1f191748c54733b2e15145f210f9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 240
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8ccf540bbc940a5b5d70f0b6759355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 145
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efcf2c4622304199a534461108c4064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 148
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eb0d15276cd47ff935a38449f14c97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 153
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9949885db5f194b0293441bf311376e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 157
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6192800323f264378b863aec8f137612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 162
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdf4f50976fb41fea3acd01041aedf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_magickahit_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 165
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215211ff8c5ab46ab806d137ad190599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 574f5dd06e9ba466a91ee8611bc53963
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

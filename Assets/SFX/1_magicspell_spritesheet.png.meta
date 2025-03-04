@@ -1,0 +1,1658 @@
+fileFormatVersion: 2
+guid: e32ad4ee026134c0f9f37aaa77e47526
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1_magicspell_spritesheet_0
+    21300002: 1_magicspell_spritesheet_1
+    21300004: 1_magicspell_spritesheet_2
+    21300006: 1_magicspell_spritesheet_3
+    21300008: 1_magicspell_spritesheet_4
+    21300010: 1_magicspell_spritesheet_5
+    21300012: 1_magicspell_spritesheet_6
+    21300014: 1_magicspell_spritesheet_7
+    21300016: 1_magicspell_spritesheet_8
+    21300018: 1_magicspell_spritesheet_9
+    21300020: 1_magicspell_spritesheet_10
+    21300022: 1_magicspell_spritesheet_11
+    21300024: 1_magicspell_spritesheet_12
+    21300026: 1_magicspell_spritesheet_13
+    21300028: 1_magicspell_spritesheet_14
+    21300030: 1_magicspell_spritesheet_15
+    21300032: 1_magicspell_spritesheet_16
+    21300034: 1_magicspell_spritesheet_17
+    21300036: 1_magicspell_spritesheet_18
+    21300038: 1_magicspell_spritesheet_19
+    21300040: 1_magicspell_spritesheet_20
+    21300042: 1_magicspell_spritesheet_21
+    21300044: 1_magicspell_spritesheet_22
+    21300046: 1_magicspell_spritesheet_23
+    21300048: 1_magicspell_spritesheet_24
+    21300050: 1_magicspell_spritesheet_25
+    21300052: 1_magicspell_spritesheet_26
+    21300054: 1_magicspell_spritesheet_27
+    21300056: 1_magicspell_spritesheet_28
+    21300058: 1_magicspell_spritesheet_29
+    21300060: 1_magicspell_spritesheet_30
+    21300062: 1_magicspell_spritesheet_31
+    21300064: 1_magicspell_spritesheet_32
+    21300066: 1_magicspell_spritesheet_33
+    21300068: 1_magicspell_spritesheet_34
+    21300070: 1_magicspell_spritesheet_35
+    21300072: 1_magicspell_spritesheet_36
+    21300074: 1_magicspell_spritesheet_37
+    21300076: 1_magicspell_spritesheet_38
+    21300078: 1_magicspell_spritesheet_39
+    21300080: 1_magicspell_spritesheet_40
+    21300082: 1_magicspell_spritesheet_41
+    21300084: 1_magicspell_spritesheet_42
+    21300086: 1_magicspell_spritesheet_43
+    21300088: 1_magicspell_spritesheet_44
+    21300090: 1_magicspell_spritesheet_45
+    21300092: 1_magicspell_spritesheet_46
+    21300094: 1_magicspell_spritesheet_47
+    21300096: 1_magicspell_spritesheet_48
+    21300098: 1_magicspell_spritesheet_49
+    21300100: 1_magicspell_spritesheet_50
+    21300102: 1_magicspell_spritesheet_51
+    21300104: 1_magicspell_spritesheet_52
+    21300106: 1_magicspell_spritesheet_53
+    21300108: 1_magicspell_spritesheet_54
+    21300110: 1_magicspell_spritesheet_55
+    21300112: 1_magicspell_spritesheet_56
+    21300114: 1_magicspell_spritesheet_57
+    21300116: 1_magicspell_spritesheet_58
+    21300118: 1_magicspell_spritesheet_59
+    21300120: 1_magicspell_spritesheet_60
+    21300122: 1_magicspell_spritesheet_61
+    21300124: 1_magicspell_spritesheet_62
+    21300126: 1_magicspell_spritesheet_63
+    21300128: 1_magicspell_spritesheet_64
+    21300130: 1_magicspell_spritesheet_65
+    21300132: 1_magicspell_spritesheet_66
+    21300134: 1_magicspell_spritesheet_67
+    21300136: 1_magicspell_spritesheet_68
+    21300138: 1_magicspell_spritesheet_69
+    21300140: 1_magicspell_spritesheet_70
+    21300142: 1_magicspell_spritesheet_71
+    21300144: 1_magicspell_spritesheet_72
+    21300146: 1_magicspell_spritesheet_73
+    21300148: 1_magicspell_spritesheet_74
+    21300150: 1_magicspell_spritesheet_75
+    21300152: 1_magicspell_spritesheet_76
+    21300154: 1_magicspell_spritesheet_77
+    21300156: 1_magicspell_spritesheet_78
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 820
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d664b7fa5b2049f7a7bd733cebb2fe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 820
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a985f820640c24851860148ceda3d2f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 820
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e58623ad1eb48b3bbeb4d094e77a4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 820
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8052bd0627a5342f6acdf71d47327d77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 820
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04b01ff75396428ab7d812d9a200bc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 820
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6c7145bec4143a3af3897bfebc739b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 820
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58dc091cf11a45ed83d62a385dbe372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 820
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c2f0b47176f480b9d0a31d2231bf27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a89592c26fe4d36acb62782edb277d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94ee09741a7b4948a94a5aa0e8cf37b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ddbccc64b884f219d722334e3bb112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d5b238050174cdcb06527b867e01ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a36bddb8eb04c4aa45ade370b9c216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27842c7edd94143d6826e01118a2d384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a93a73c8db3f4f5689855db3d1f6331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c50089c2251049399a0501175ac6f36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf208d08a2ec4b4cbe7b2564a780547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0e55130cddf4206b351adc470a6e7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecef9bed33bf84781aa2024472e24d71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82780cc2ba4954758bf5dc3691a2a765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f067f0f489c4070b826304b4b4580b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50beae18e8bd4531b538421079f177c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee66a0d8d198415a93321e0a6637e4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f787b96bfef413c905646f403f3271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9000dcfce914293838117fc9ce85ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b9010975a26497aa82ffe05df3e08c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 520
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fee3647434242eab8a9f9d40f7baaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 520
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209e2a044dc7546cfbed8254e8bc1c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 520
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0753479bdaf4461870b4f35f135efc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 520
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a1788be5b0142f081149c9c268d0fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 520
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ab49ecbe634b67942f5d62ac0a072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 520
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ea4087fac0246489e91dce29d44a16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 520
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0788d5c6914569bafbeb3cc5f9598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 520
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4593e996adc4b420294c43bdc8312292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 520
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72a0781690449eaa96078fd0ea821c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2784b81ef58294adb83ed7830f4a1cb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5f4911b528647f2a55cf5a52d66585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f65c63b5e194ff7a53aa9a81e80204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671dec6cd73e433c9ff90c532db4c6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b577ce067b95445d94fd1c1f9fe219c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ff638b07ac54c7f9cc457d27f9b485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be62cf6d481d48c6b2c1109aa1ab4b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c674988a50d400f8b9ac9482bf0ae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c5695f9d7cd4c5aa7877ed882af56c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2f8bcf33c8845118f2e58d0c8fa6fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c94bee31e94cddb1ac47a20a2ab8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7905766df5667458fb05580f1bdfac47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09c5feb5094b4dccb7b3c66d05886a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1317aad3614ab4b8da5df8c2a3e5c346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e36cc6ba09474daa3da41614b2e5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470f4ec81f7dc40b892faac34599ce13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a44ecd285fea435e8b0de4575a0dbc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0565cee8693647b8beb01278a173cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 220
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a074a747d248629e13bcd3bc57819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 220
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65d522c0844c4c3fa430607a3e5fdb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec91319996664c53974822d36c465f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 220
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60bc5e48fd9343f69f4a1f714f27e13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 220
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e245e7abeebe3490bb88d56f75ebaafc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 220
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a40032c409504f99ac39c5c58f9919f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 220
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9614da27d694413806f9a3608c34a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 220
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4a316c7ec37436bacd27ded1295054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 220
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25411e960e910436a9d0e61a69b5cd5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ee0cb150254f2eb11fcc14357e905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19225e113c4994f8aa9f8e8d6215cadb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79860471d8e714300a36bceb2cbc89da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fba2df136e74bd6a2f1112d6e98add
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414681f84a2bf40ee805b73efd2f5008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fda684aab9f844cb9e02cd789f8892b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9e16308a9ce45f59fbd2c1511931fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c024a6da2a291408586b4056985715ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8687edbb14540cdbe91d80fe7c7d3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3d95a090dfd4241b130a4b2b332668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 20
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae2f18be2f8647c59fa0427c5d2819b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_magicspell_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 20
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e420ca480bbe427eb71b54e9fcdfd96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f44c19321df7a497598f05aada0918c7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
